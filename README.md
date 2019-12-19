@@ -1,5 +1,6 @@
-# Manejo de base de datos con SQL
-Proyecto inconcluso de uso particular para el manejo de registros de pacientes.
+# Manejo de base de datos con MySQL
 
-Se utiliza SQL para el manejo de la base de datos y sus 4 tablas.
-Se desarrolló utilizando Netbeans
+## Descripción
+
+
+Se utilizó el lenguaje de programación JAVA. Para la interfaz gráfica se utilizó SWING de Netbeans. El manejo de la base de datos se lleva a cabo con MySQL.
